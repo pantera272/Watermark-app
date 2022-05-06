@@ -1,0 +1,11 @@
+{
+  "name": "Watermark",
+  "version": "1",
+  "description": "Watermark app",
+  "main": "1",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "6.5.0",
+    "jimp": "0.6.4"
+  }
+}
